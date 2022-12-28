@@ -5,10 +5,12 @@ the end goal would be to have a simple tracker / chiptune player that "just work
 
 
 # files that will be supported
-- mod
-- nsf
-- spf/minispf
-- 2sf/mini2sf
-- gameboy/gba ?
+- mod (support a lot of systems)
+- nsf (nes/famicom)
+- psf/minipsf (playstation)
+- (playstation 2)
+- 2sf/mini2sf (nds)
+- (gba)
+- (gameboy)
 
 - xm / it ? (usually already supported so idk)
