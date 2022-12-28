@@ -10,7 +10,7 @@ the end goal would be to have a simple tracker / chiptune player that "just work
 - psf/minipsf (playstation)
 - (playstation 2)
 - 2sf/mini2sf (nds)
-- (gba)
-- (gameboy)
+- gsf (gba)
+- gbs (gameboy / g color)
 
 - xm / it ? (usually already supported so idk)
